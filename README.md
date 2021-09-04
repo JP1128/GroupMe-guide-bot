@@ -16,3 +16,14 @@ If some student asks the question again, then anyone can recall the bot to help 
 - Parse and/or store latex
 
 ## Demonstration
+### Help
+![Help](img/help.png)
+
+### Create
+![Create](img/create.png)
+
+### Recall Guide
+![Guide](img/guide.png)
+
+### Latex
+![Latex](img/latex.png)
